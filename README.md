@@ -35,3 +35,32 @@
 > 📅 Timeline: April 28, 2025 – May 5, 2025  
 > 🎯 Objective: Deliver a working clone with at least 3 core views and functional booking logic.
 
+---
+
+## 🌈 UI/UX Design Planning
+
+### Design Goals
+- Create an intuitive and frictionless booking flow  
+- Maintain visual and interaction consistency  
+- Ensure mobile responsiveness from the start  
+- Deliver fast page load times  
+- Enhance accessibility for all users  
+
+### Key Features
+- Property search and advanced filtering  
+- Detailed property view with dynamic image galleries and booking form  
+- Secure checkout with form validation and confirmation flow  
+- User login, signup, and session handling  
+
+### Primary Pages
+
+| Page                  | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | Grid display of available properties with filtering options (location, price, type) |
+| **Listing Detailed View** | Detailed view of a property with images, description, rating, amenities, and booking form |
+| **Simple Checkout View**  | Streamlined and secure booking confirmation page with payment integration        |
+
+### Importance of User-Friendly Design
+A clean and user-friendly booking system significantly improves user experience by reducing confusion, lowering bounce rates, and increasing conversion. It helps ensure that users can navigate listings, complete bookings, and interact with the site with ease. Key UX principles such as clarity, responsiveness, and feedback help build trust and usability.
+
+
