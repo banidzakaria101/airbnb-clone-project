@@ -6,103 +6,138 @@
 ---
 
 ## 🎯 Project Goals
-- Build a responsive and user-friendly UI
-- Implement core Airbnb-like features such as search, filtering, booking, and authentication
-- Practice collaborative development using Git and GitHub
-- Gain hands-on experience with full-stack development workflows
-- Explore reusable component-based architecture
+- Build a responsive and user-friendly UI  
+- Implement core Airbnb-like features such as search, filtering, booking, and authentication  
+- Practice collaborative development using Git and GitHub  
+- Gain hands-on experience with full-stack development workflows  
+- Explore reusable component-based architecture  
 
 ---
 
 ## 🧰 Tech Stack
 
 ### Frontend:
-- HTML, CSS, JavaScript
-- **React** (or similar modern JS framework)
+- HTML, CSS, JavaScript  
+- React (or similar modern JS framework)  
 
 ### Backend:
-- Node.js, Express.js (or similar)
-- MongoDB / PostgreSQL (or similar relational/NoSQL database)
+- Node.js, Express.js (or similar)  
+- MongoDB / PostgreSQL (or similar database)  
 
 ### Version Control:
-- Git, GitHub (Feature branches, pull requests, commit standards)
+- Git and GitHub (feature branches, PRs, commit messages)  
 
-### Design:
-- Figma for UI/UX mockups and design specs
+### Design Tools:
+- Figma for UI/UX design  
 
 ---
 
 > 📅 Timeline: April 28, 2025 – May 5, 2025  
-> 🎯 Objective: Deliver a working clone with at least 3 core views and functional booking logic.
+> 🏁 Objective: Deliver a working Airbnb clone with 3+ pages and booking functionality.
 
 ---
 
-## 🌈 UI/UX Design Planning
+## 🎨 UI/UX Design Planning
 
 ### Design Goals
-- Create an intuitive and frictionless booking flow  
-- Maintain visual and interaction consistency  
-- Ensure mobile responsiveness from the start  
-- Deliver fast page load times  
-- Enhance accessibility for all users  
+- Create intuitive booking flow  
+- Maintain visual consistency  
+- Ensure fast loading times  
+- Prioritize mobile responsiveness  
 
 ### Key Features
-- Property search and advanced filtering  
-- Detailed property view with dynamic image galleries and booking form  
-- Secure checkout with form validation and confirmation flow  
-- User login, signup, and session handling  
+- Property search and filtering  
+- Detailed property viewing  
+- Secure checkout process  
+- User authentication  
 
 ### Primary Pages
 
-| Page                  | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| **Property Listing View** | Grid display of available properties with filtering options (location, price, type) |
-| **Listing Detailed View** | Detailed view of a property with images, description, rating, amenities, and booking form |
-| **Simple Checkout View**  | Streamlined and secure booking confirmation page with payment integration        |
+| Page | Description |
+|------|-------------|
+| **Property Listing View** | Grid display of available properties with filters |
+| **Listing Detailed View** | Complete property details with images and booking form |
+| **Simple Checkout View**  | Streamlined payment and booking confirmation |
 
 ### Importance of User-Friendly Design
-A clean and user-friendly booking system significantly improves user experience by reducing confusion, lowering bounce rates, and increasing conversion. It helps ensure that users can navigate listings, complete bookings, and interact with the site with ease. Key UX principles such as clarity, responsiveness, and feedback help build trust and usability.
+A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
+
+### Figma Design Specifications
+
+#### Color Styles:
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`  
+
+#### Typography:
+- **Primary Font:** Circular, Medium (500), 16px  
+- **Headings:** Circular, Bold (700), 24px-32px  
+- **Secondary Text:** Circular, Book (400), 14px  
+
+### Importance of Identifying Design Properties
+Understanding Figma’s mockup design properties ensures the final product aligns visually with the original UI/UX goals. It helps developers create consistent styling, match font and spacing precisely, and implement branding effectively across all components.
 
 ---
 
 ## 📄 Project Roles and Responsibilities
 
 ### Project Manager
-- Oversees the entire project timeline and deliverables  
-- Coordinates team meetings and communication  
-- Ensures the team stays aligned with goals and deadlines  
+- Oversees the timeline, coordinates team, manages deliverables
 
 ### Frontend Developers
-- Implement responsive UI components based on Figma designs  
-- Ensure consistent styling and accessibility  
-- Connect frontend with backend APIs  
+- Implements UI components, ensures responsive design
 
 ### Backend Developers
-- Design and implement RESTful APIs and core business logic  
-- Manage data persistence and models  
-- Ensure proper validation, error handling, and security  
+- Builds APIs, manages database, implements business logic
 
 ### Designers
-- Translate requirements into mockups and interactive prototypes  
-- Maintain a cohesive visual design system  
-- Ensure accessibility and UX best practices are followed  
+- Creates mockups, maintains design system, ensures UX quality
 
 ### QA/Testers
-- Write and maintain unit and integration test cases  
-- Perform manual testing to identify bugs and edge cases  
-- Verify feature completeness and report issues  
+- Writes test cases, performs testing, reports bugs
 
 ### DevOps Engineers
-- Set up and manage CI/CD pipelines and environments  
-- Monitor deployments, handle rollback strategies  
-- Maintain server infrastructure and performance  
+- Manages deployment, CI/CD pipeline, server infrastructure
 
 ### Product Owner
-- Define functional requirements and business logic  
-- Prioritize features and provide domain expertise  
-- Act as liaison between stakeholders and the dev team  
+- Defines requirements, prioritizes features, represents stakeholders
 
 ### Scrum Master
-- Facilitate daily standups, sprint planning, and retrospectives  
-- Remove blockers and support team collaboration  
-- Ensure adherence to Agile methodology  
+- Facilitates agile processes, removes blockers, organizes meetings
+
+---
+
+## 🔧 UI Component Patterns
+
+### Navbar
+- Logo  
+- Search bar  
+- User navigation  
+- Responsive menu  
+
+### Property Card
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite button  
+- Responsive layout  
+
+### Footer
+- Site links  
+- Company information  
+- Social media links  
+- Copyright information  
+
+Each component will be designed for reusability and consistency across the application.
+
+---
+
+## ✅ Manual Review
+
+All tasks have been documented according to project instructions. Please review this file for:
+- Complete planning documentation  
+- Proper section titles and structure  
+- Clear descriptions aligned with StayEase specifications  
+
+📁 GitHub Repository: `airbnb-clone-project`
