@@ -63,4 +63,46 @@
 ### Importance of User-Friendly Design
 A clean and user-friendly booking system significantly improves user experience by reducing confusion, lowering bounce rates, and increasing conversion. It helps ensure that users can navigate listings, complete bookings, and interact with the site with ease. Key UX principles such as clarity, responsiveness, and feedback help build trust and usability.
 
+---
 
+## 📄 Project Roles and Responsibilities
+
+### Project Manager
+- Oversees the entire project timeline and deliverables  
+- Coordinates team meetings and communication  
+- Ensures the team stays aligned with goals and deadlines  
+
+### Frontend Developers
+- Implement responsive UI components based on Figma designs  
+- Ensure consistent styling and accessibility  
+- Connect frontend with backend APIs  
+
+### Backend Developers
+- Design and implement RESTful APIs and core business logic  
+- Manage data persistence and models  
+- Ensure proper validation, error handling, and security  
+
+### Designers
+- Translate requirements into mockups and interactive prototypes  
+- Maintain a cohesive visual design system  
+- Ensure accessibility and UX best practices are followed  
+
+### QA/Testers
+- Write and maintain unit and integration test cases  
+- Perform manual testing to identify bugs and edge cases  
+- Verify feature completeness and report issues  
+
+### DevOps Engineers
+- Set up and manage CI/CD pipelines and environments  
+- Monitor deployments, handle rollback strategies  
+- Maintain server infrastructure and performance  
+
+### Product Owner
+- Define functional requirements and business logic  
+- Prioritize features and provide domain expertise  
+- Act as liaison between stakeholders and the dev team  
+
+### Scrum Master
+- Facilitate daily standups, sprint planning, and retrospectives  
+- Remove blockers and support team collaboration  
+- Ensure adherence to Agile methodology  
